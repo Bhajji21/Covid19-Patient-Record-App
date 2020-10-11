@@ -13,15 +13,15 @@ In this app, I used POSTMAN API to track the covid19 patient data from web.
 3. Make a file named requirements.txt
 4. Make a file named setup.sh and paste this	
 
-mkdir -p ~/.streamlit/
+	mkdir -p ~/.streamlit/
 
-echo "\
-[server]\n\
-headless = true\n\
-port = $PORT\n\
-enableCORS = false\n\
-\n\
-" > ~/.streamlit/config.toml
+	echo "\
+	[server]\n\
+	headless = true\n\
+	port = $PORT\n\
+	enableCORS = false\n\
+	\n\
+	" > ~/.streamlit/config.toml
 
 
 5. heroku login

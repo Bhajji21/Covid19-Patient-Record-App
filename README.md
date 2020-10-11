@@ -24,8 +24,8 @@ In this app, I used POSTMAN API to track the covid19 patient data from web.
 	" > ~/.streamlit/config.toml
 
 
-5. heroku login
-   heroku create
-   git add .
-   git commit -m "Some message Which you want"
-   git push heroku master
+5. > heroku login
+   > heroku create
+   > git add .
+   > git commit -m "Some message Which you want"
+   > git push heroku master

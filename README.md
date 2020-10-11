@@ -1,6 +1,6 @@
 # Covid19-Patient-Record-App
 Covid19 Patients Records App Using Streamlit and Heroku
-# Link:- https://covid19-patients-record-app.herokuapp.com/
+Link:- https://covid19-patients-record-app.herokuapp.com/
 It's my first Heroku deployment app using Streamlit and Python.
 In this app, I used POSTMAN API to track the covid19 patient data from web.
 
